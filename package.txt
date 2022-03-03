@@ -1,5 +1,6 @@
-dependencies:
+Install below dependencies in your project using "npm install --save <Dependancy_Name>".
 
+Dependencies:
     "body-parser": "^1.19.1",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
